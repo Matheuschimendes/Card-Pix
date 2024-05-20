@@ -16,6 +16,8 @@ A estrutura do projeto é composta por um arquivo HTML com estilos embutidos. Aq
 ## Arquivo Principal
 
 ### index.html
+<img width="893" alt="Screenshot 2024-05-20 alle 11 40 47" src="https://github.com/Matheuschimendes/Card-Pix/assets/93441084/541666a2-f4fa-45a7-ba21-44add09d4ad4">
+
 
 ```html
 <!DOCTYPE html>
